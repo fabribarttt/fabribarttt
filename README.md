@@ -1,6 +1,6 @@
 # 👋🏻 ¡Hola! Soy Fabricio Bartomeu Rios  
 
-💻 **Desarrollador | Apasionado por la tecnología y la innovación**  
+💻 **Analista y Desarrollador de software | Apasionado por la tecnología y la innovación**  
 
 🎓 Estudiante de **Licenciatura en Ciencias Informáticas** en la **Facultad Politécnica de la Universidad Nacional de Asunción**  
 🚀 Apasionado por **el desarrollo web, aplicaciones móviles e integración de bases de datos**  
