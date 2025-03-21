@@ -11,8 +11,7 @@
 ✔ **Frontend & Mobile:** Flutter | HTML | CSS | Bootstrap  
 ✔ **Herramientas:** Git | Docker | API REST  
 
-## 🗣️ Habilidades  
-✔ Inglés medio
+## 🗣️ Habilidades
 ✔ Pensamiento analítico y resolución de problemas  
 ✔ Comunicación efectiva y trabajo en equipo  
 ✔ Adaptabilidad y aprendizaje continuo  
