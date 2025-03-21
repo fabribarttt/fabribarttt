@@ -1,4 +1,4 @@
-# 👋🏻 ¡Hola! Soy Fabricio Bartomeu Rios  
+# 👋🏻 ¡Hola! Soy Fabricio Bartomeu
 
 💻 **Analista y Desarrollador de software | Apasionado por la tecnología y la innovación**  
 
