@@ -12,9 +12,10 @@
 ✔ **Herramientas:** Git | Docker | API REST  
 
 ## 🗣️ Habilidades  
-✔ Comunicación efectiva  
-✔ Resolución de problemas  
 ✔ Inglés medio
+✔ Pensamiento analítico y resolución de problemas  
+✔ Comunicación efectiva y trabajo en equipo  
+✔ Adaptabilidad y aprendizaje continuo  
 
 🌱 **Siempre aprendiendo nuevas tecnologías y dispuesto a tomar nuevos desafíos.**  
 
