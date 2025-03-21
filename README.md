@@ -12,6 +12,7 @@
 ✔ **Herramientas:** Git | Docker | API REST  
 
 ## 🗣️ Habilidades
+✔ Inglés A2
 ✔ Pensamiento analítico y resolución de problemas  
 ✔ Comunicación efectiva y trabajo en equipo  
 ✔ Adaptabilidad y aprendizaje continuo  
