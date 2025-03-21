@@ -6,7 +6,7 @@
 🚀 Apasionado por **el desarrollo web, aplicaciones móviles e integración de bases de datos**  
 🌱 Siempre aprendiendo nuevas tecnologías y dispuesto a tomar nuevos desafíos.  
 
-## 🛠️ Tech Stack  
+## 🛠️ Stack  
 ✔ **Backend:** Python | Django | PostgreSQL  
 ✔ **Frontend & Mobile:** Flutter | HTML | CSS | Bootstrap  
 ✔ **Herramientas:** Git | Docker | API REST  
