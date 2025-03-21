@@ -11,11 +11,11 @@
 ✔ **Frontend & Mobile:** Flutter | HTML | CSS | Bootstrap  
 ✔ **Herramientas:** Git | Docker | API REST  
 
-## 🗣️ Habilidades
-✔ Inglés A2
+## 🗣️ Habilidades  
+✔ Inglés A2  
 ✔ Pensamiento analítico y resolución de problemas  
 ✔ Comunicación efectiva y trabajo en equipo  
-✔ Adaptabilidad y aprendizaje continuo  
+✔ Adaptabilidad y aprendizaje continuo   
 
 🌱 **Siempre aprendiendo nuevas tecnologías y dispuesto a tomar nuevos desafíos.**  
 
