@@ -4,7 +4,7 @@
 
 🎓 Estudiante de **Licenciatura en Ciencias Informáticas** en la **Facultad Politécnica de la Universidad Nacional de Asunción**  
 🚀 Apasionado por **el desarrollo web, aplicaciones móviles e integración de bases de datos**  
-🔍 Siempre explorando nuevas tecnologías y buscando soluciones  
+🌱 Siempre aprendiendo nuevas tecnologías y dispuesto a tomar nuevos desafíos.  
 
 ## 🛠️ Tech Stack  
 ✔ **Backend:** Python | Django | PostgreSQL  
@@ -17,7 +17,7 @@
 ✔ Comunicación efectiva y trabajo en equipo  
 ✔ Adaptabilidad y aprendizaje continuo   
 
-🌱 **Siempre aprendiendo nuevas tecnologías y dispuesto a tomar nuevos desafíos.**  
+
 
 <!--
 **fabribarttt/fabribarttt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
